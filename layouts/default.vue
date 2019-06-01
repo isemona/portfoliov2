@@ -52,4 +52,11 @@ html {
   color: #fff;
   background-color: #35495e;
 }
+
+#headshot {
+  width: 200px;
+  height: auto;
+}
 </style>
+
+

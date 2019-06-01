@@ -1,22 +1,45 @@
 <template>
   <section class="container">
     <div>
-      <logo />
-      <h1 class="title">
-        testapp
-      </h1>
-      <h2 class="subtitle">
-        My grand Nuxt.js project
-      </h2>
+      <!-- <logo /> -->
+      <img id="headshot" src="https://res.cloudinary.com/dvhvxgxtf/image/upload/v1559353897/Screen_Shot_2019-01-18_at_10.02.19_PM_atferh.png">
+      <h3 class="title">
+        Semona Igama
+      </h3>
+      <h4 class="subtitle">
+        Software Engineer
+        
+      </h4>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green"
-          >Documentation</a
-        >
         <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
+          href="https://github.com/isemona"
+          target="_blank" 
           class="button--grey"
           >GitHub</a
+        >
+        <!-- linking outside of website use target="_blank" -->
+        <a
+          href="/about"
+          class="button--grey"
+          >About</a
+        >
+
+        <a
+          href="/portfolio"
+          class="button--grey"
+          >Portfolio</a
+        >
+
+        <a
+          href="/blog"
+          class="button--grey"
+          >Blog</a
+        >
+
+        <a
+          href="/reading-list"
+          class="button--grey"
+          >Reading List</a
         >
       </div>
     </div>
@@ -24,11 +47,11 @@
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
+// import Logo from '~/components/Logo.vue'
 
 export default {
   components: {
-    Logo
+    // Logo
   }
 }
 </script>
