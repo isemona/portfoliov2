@@ -56,7 +56,13 @@ html {
 #headshot {
   width: 200px;
   height: auto;
+
 }
+
+img {
+  border-radius: 100%;
+}
+
 </style>
 
 

@@ -9,7 +9,9 @@
     my learning style - Total Immersion - I chose to join a bootcamp specifically Hackbright for their mission 
     to close the gap, Python based curriculum, mentorship program, career transitioning assistance, and strong
     alumnae gcommunity. 
-    </p>
 
     If you want to go far seek education and mentorship.
+    </p>
+
+    
 </template>
