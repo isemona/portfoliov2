@@ -31,7 +31,7 @@
         >
 
         <a
-          href="/blog"
+          href="https://sigama.pythonanywhere.com/"
           class="button--grey"
           >Blog</a
         >
