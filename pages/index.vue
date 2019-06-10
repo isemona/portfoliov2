@@ -18,17 +18,17 @@
           >GitHub</a
         >
         <!-- linking outside of website use target="_blank" -->
-        <a
+        <!-- <a
           href="/about"
           class="button--grey"
           >About</a
-        >
+        > -->
 
-        <a
+        <!-- <a
           href="/portfolio"
           class="button--grey"
           >Portfolio</a
-        >
+        > -->
 
         <a
           href="https://sigama.pythonanywhere.com/"
@@ -73,14 +73,14 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 60px;
+  font-size: 35px;
   color: #35495e;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 40px;
+  font-size: 20px;
   color: #526488;
   word-spacing: 5px;
   padding-bottom: 15px;
