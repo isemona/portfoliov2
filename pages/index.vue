@@ -18,11 +18,11 @@
           >GitHub</a
         >
         <!-- linking outside of website use target="_blank" -->
-        <!-- <a
+        <a
           href="/about"
           class="button--grey"
           >About</a
-        > -->
+        >
 
         <!-- <a
           href="/portfolio"
@@ -73,14 +73,14 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 35px;
+  font-size: 50px;
   color: #35495e;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 20px;
+  font-size: 30px;
   color: #526488;
   word-spacing: 5px;
   padding-bottom: 15px;

@@ -1,6 +1,7 @@
 <template>
-<h1>About</h1>
+
 <div>
+      <h1>About</h1>
       <div class="container">
         I am told a <strong>whippersnapper</strong> jokingly equates to a millenial. Merriam-Webster defines a 
         whippersnapper to be: <em>a young person who annoys older people by being very confident and acting like 
