@@ -1,5 +1,5 @@
 {
-  "name": "testapp",
+  "name": "isemona",
   "version": "1.0.0",
   "description": "My grand Nuxt.js project",
   "author": "Semona",
@@ -13,10 +13,11 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "cross-env": "^5.2.0",
-    "nuxt": "^2.4.0",
     "@nuxtjs/axios": "^5.3.6",
-    "@nuxtjs/pwa": "^2.6.0"
+    "@nuxtjs/pwa": "^2.6.0",
+    "bootstrap-vue": "^2.0.0-rc.27",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.9",

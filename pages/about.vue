@@ -1,8 +1,10 @@
 <template>
 
+
 <div>
+
       <h1>About</h1>
-      <div class="container">
+      <div>
         I am told a <strong>whippersnapper</strong> jokingly equates to a millenial. Merriam-Webster defines a 
         whippersnapper to be: <em>a young person who annoys older people by being very confident and acting like 
         someone important</em>. It is a word often used to describe millenials taking over Silicon Valley, 
@@ -41,12 +43,5 @@
 </template>
 
 <style>
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
+
 </style>
