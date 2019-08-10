@@ -12,11 +12,11 @@
         <div class="links">
           <a href="https://github.com/isemona" target="_blank" class="button--grey">GitHub</a>
           <!-- linking outside of website use target="_blank" -->
-          <!-- <a
+          <a
           href="/about"
           class="button--grey"
           >About</a
-          >-->
+          >
 
           <!-- <a
           href="/portfolio"
