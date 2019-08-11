@@ -1,9 +1,10 @@
 <template>
-
-
-<div>
-
-      <h1>About</h1>
+<div class="row"> 
+      <h1 class="title">About</h1>
+      <div class="col-4">
+      <img id="headshot" src="https://res.cloudinary.com/dvhvxgxtf/image/upload/v1559353897/Screen_Shot_2019-01-18_at_10.02.19_PM_atferh.png"/>
+      </div>
+      <div class="col-8">
       <div>
         I am told a <strong>whippersnapper</strong> jokingly equates to a millenial. Merriam-Webster defines a 
         whippersnapper to be: <em>a young person who annoys older people by being very confident and acting like 
@@ -38,10 +39,33 @@
         these spontaneous collaborations pan out. I love working with diverse teams and feel like I have much to 
         give and learn from them as well. Energtic/motivated team fuel me to accompish meaningful goals.
       </div>
+      </div>
   
 </div>
 </template>
 
 <style>
+#headshot {
+  width: 200px;
+  height: auto;
+}
 
+.col-4 {
+  display: inline-block;
+  text-align: center;
+}
+
+.col-8 {
+  text-align: left;
+}
+
+.title {
+  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  display: block;
+  font-weight: 300;
+  font-size: 50px;
+  color: #35495e;
+  letter-spacing: 1px;
+}
 </style>
