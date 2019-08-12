@@ -58,7 +58,7 @@
       :imgSrc="''"
       :projectUrl="'https://github.com/isemona/TomeRater'"
       :title="'TomeRater'"
-      :description="'An application that rates books based on an individual user\'s input. Ratings include: Most positive user, Highest rated book, Most read book.'"/>
+      :description="'A python application that rates books based on an individual user\'s input. Ratings include: Most positive user, Highest rated book, Most read book.'"/>
       <div class="row">
         <div class="col-12"></div>
     </div>
@@ -77,6 +77,12 @@ export default {
 </script>
 
 <style>
+
+#headshot {
+  width: 200px;
+  height: auto;
+  border-radius: 100%;
+}
 #sugarcoinlogo {
   width: 200px;
   height: auto;
@@ -84,9 +90,11 @@ export default {
 .col-4 {
   display: inline-block;
   text-align: center;
+  padding: 1em;
 }
 .col-8 {
   text-align: left;
+  padding: 1em;
 }
 .col-9 {
   padding: 1em;

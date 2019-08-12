@@ -1,6 +1,6 @@
 <template>
 <div>
-      <div class="row">
+      <div class="row flex-container">
       <div class="col-9" style="margin: 0 auto">
       <div class="links" align="right">
           <a
@@ -17,14 +17,14 @@
         </div>
       </div>
       </div>
-      <div class="row">
+      <div class="row flex-container">
       <div class="col-12">
       <div>
       <!-- <img id="headshot" src="https://res.cloudinary.com/dvhvxgxtf/image/upload/v1559353897/Screen_Shot_2019-01-18_at_10.02.19_PM_atferh.png"/> -->
       </div></br>
       </div>
       </div>
-      <div class="row">
+      <div class="row flex-container">
       <div class="col-9" style="margin: 0 auto">
       <h1 class="title">About</h1>
       <div>
@@ -62,19 +62,19 @@
       </div></br>
     </div>
     </div>
-    <div class="row">
+    <div class="row flex-container">
         <div class="col-12"></div>
     </div>
 </div>
 </template>
 
 <style>
-#headshot {
+/* #headshot {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 20%;
-}
+} */
 
 .col-4 {
   text-align: left;

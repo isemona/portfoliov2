@@ -5,6 +5,11 @@
 </template>
 
 <style>
+
+.flex-container {
+  display: flex;
+}
+
 html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -51,16 +56,6 @@ html {
 .button--grey:hover {
   color: #fff;
   background-color: #35495e;
-}
-
-#headshot {
-  width: 200px;
-  height: auto;
-
-}
-
-img {
-  border-radius: 100%;
 }
 
 </style>

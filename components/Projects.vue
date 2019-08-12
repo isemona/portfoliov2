@@ -1,6 +1,6 @@
 <template>
-  <div class="row">
-    <div class="col-4">
+  <div class="row flex-container">
+    <div class="col-4 ">
       <img id="sugarcoinlogo" :src="imgSrc" />
     </div>
     <div class="col-8">
