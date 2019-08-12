@@ -7,7 +7,7 @@
       <span class="project-title">
         <a :href="projectUrl">{{title}}</a>
       </span>
-      <p>{{description}}</p>
+      <p>{{description}}</p></br>
     </div>
   </div>
 </template>
@@ -29,3 +29,5 @@ export default {
   letter-spacing: 1px;
 }
 </style>
+
+

@@ -16,21 +16,17 @@
           class="button--grey"
           >About</a
           >
-
           <!-- <a
           href="/portfolio"
           class="button--grey"
           >Portfolio</a
           >-->
-
           <a href="https://sigama.pythonanywhere.com/" target="_blank" class="button--grey">Blog</a>
-
           <a
             href="https://www.goodreads.com/user/show/18346324-mona"
             target="_blank"
             class="button--grey"
           >Reading List</a>
-
           <!-- <a
           href="/art"
           class="button--grey"
@@ -45,6 +41,18 @@
       :projectUrl="'http://sugarcoin.io/'"
       :title="'SugarCoin'"
       :description="'SugarCoin is a gamified Flask web application with user authenticated API that tracks and budgets sugar consumption. Using D3 visualization, this app will pinpoint any sweet-tooth dependency factors. And since added sugar directly affects weight and glucose levels, the app will monitor these data points using Charts.js. Lastly, a text reminder is integrated through Twilio API called - SugarWallet - which reports the user\'s current balance.'"/>
+      
+      <Projects
+      :imgSrc="'https://res.cloudinary.com/dvhvxgxtf/image/upload/v1565578143/Screen_Shot_2019-08-11_at_7.30.58_PM_pzowtt.png'"
+      :projectUrl="'https://sigama.pythonanywhere.com/'"
+      :title="'Django Blog'"
+      :description="'I spent a day building a blog with some amazing women at a Django Girls meetup. This blog was built on Python\'s Django web framework.'"/>
+      
+      <Projects
+      :imgSrc="''"
+      :projectUrl="'https://github.com/isemona/TomeRater'"
+      :title="'TomeRater'"
+      :description="'An application that rates books based on an individual user\'s input. Ratings include: Most positive user, Highest rated book, Most read book.'"/>
       <div class="row">
         <div class="col-12"></div>
     </div>
@@ -67,25 +75,19 @@ export default {
   width: 200px;
   height: auto;
 }
-
 .col-4 {
   display: inline-block;
   text-align: center;
-  /* border-radius: 4px;
-  border: 5px solid #3b8070;
-  color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px; */
 }
-
 .col-8 {
   text-align: left;
 }
-
+.col-9 {
+  padding: 1em;
+}
 .col-12 {
   height: 100px;
 }
-
 .container {
   margin: 0 auto;
   min-height: 100vh;
@@ -94,7 +96,6 @@ export default {
   align-items: center;
   text-align: center;
 }
-
 .title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -104,7 +105,6 @@ export default {
   color: #35495e;
   letter-spacing: 1px;
 }
-
 .subtitle {
   font-weight: 300;
   font-size: 30px;
@@ -112,7 +112,6 @@ export default {
   word-spacing: 5px;
   padding-bottom: 15px;
 }
-
 .links {
   padding-top: 15px;
 }
