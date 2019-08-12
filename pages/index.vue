@@ -2,7 +2,6 @@
   <div>
     <section class="container">
       <div>
-        <!-- <logo /> -->
         <img
           id="headshot"
           src="https://res.cloudinary.com/dvhvxgxtf/image/upload/v1559353897/Screen_Shot_2019-01-18_at_10.02.19_PM_atferh.png"
