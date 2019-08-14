@@ -49,6 +49,12 @@
       :description="'Currently working on a citizen-science project called iMosquitoes, it\’s hosted on a platform called iNaturalist (a web and mobile app in collaboration with National Geographic) that allows anyone to document different plants and animal species to be verified by scientists. More recently a machine learning/computer vision tool has been added to classify mosquito species on the big island of Hawaii esp disease carrying ones, e.g., dengue fever. Lead scientist, Dr. Kapan, is collaborating with Google\’s Verily to double validate the results through genomic sequencing by having students on the island send mosquito samples to his lab. My role is to help to improve the website; I use CSS, HTML, and Bootstrap to style and manage the main website\’s information. The goal is to increase data in Hawaii all the while promoting public health measures to prevent disease occurrence and contain potential spread of illness. I focus on organizing Dr. Kapan\’s information in order to help students and teachers quickly get started. As a result, it will be easier for students to access the instructions they need and the faster they can share photos of the mosquitos and document their location sighting.'"/>
       
       <Projects
+      :imgSrc="'https://res.cloudinary.com/dvhvxgxtf/image/upload/v1565800495/Screen_Shot_2019-08-14_at_9.34.29_AM_r9x9la.png'"
+      :projectUrl="'https://github.com/isemona/Variant-Search-WebApp'"
+      :title="'Variant-Gene Search App'"
+      :description="'Gene-variants Search Engine is a Python-Flask backend and React frontend web application that allows users to search for genes and their respective variants and variant-attributes.'"/>
+
+      <Projects
       :imgSrc="'https://res.cloudinary.com/dvhvxgxtf/image/upload/v1565578143/Screen_Shot_2019-08-11_at_7.30.58_PM_pzowtt.png'"
       :projectUrl="'https://sigama.pythonanywhere.com/'"
       :title="'Django Blog'"
@@ -58,7 +64,13 @@
       :imgSrc="''"
       :projectUrl="'https://github.com/isemona/TomeRater'"
       :title="'TomeRater'"
-      :description="'A python application that rates books based on an individual user\'s input. Ratings include: Most positive user, Highest rated book, Most read book.'"/>
+      :description="'A python script that rates books based on an individual user\'s input. Ratings include: Most positive user, Highest rated book, Most read book.'"/>
+
+      <Projects
+      :imgSrc="''"
+      :projectUrl="''"
+      :title="'Portfolio Website'"
+      :description="'This website is built on Vue.js.'"/>
       <div class="row">
         <div class="col-12"></div>
     </div>
