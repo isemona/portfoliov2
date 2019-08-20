@@ -1,9 +1,9 @@
 <template>
-  <div class="row flex-container">
-    <div class="col-4 ">
+  <div class="row">
+    <div class="col-md-4 col-xs-12">
       <img id="sugarcoinlogo" :src="imgSrc" />
     </div>
-    <div class="col-8">
+    <div class="col-md-8 col-xs-12">
       <span class="project-title">
         <a :href="projectUrl">{{title}}</a>
       </span>

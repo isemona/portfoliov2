@@ -6,9 +6,6 @@
 
 <style>
 
-.flex-container {
-  display: flex;
-}
 
 html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
