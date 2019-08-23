@@ -39,6 +39,13 @@
       </div></br>
       <h2 class="interests">Interests</h2>
       <div>
+        Currently, I use my background in science and software engineering skills as a volunteer at the California Academy of Sciences, 
+        assisting a lead scientist to improve his website for a citizen-science project on a community-powered app, iNaturalist. 
+        More importantly, his work uses machine learning to classify disease-carrying mosquitoes. I'm happy to help him get his public 
+        health message across and to help educate students in The Big Island of Hawaii about mosquitos that carry potentially 
+        life-threatening diseases such as dengue fever.
+      </div></br>
+      <div>
         As a Scientist/Public Health Worker turned Software Developer, I am most interested in the intersection
         of healthcare and technology. In Saipan, I volunteered at the local hospital educating patients and helping them to
         understand and manage diabetes and other preventable illnesses. I also volunteered at a local women's shelter, where I 
@@ -52,13 +59,6 @@
         improve heathcare at its current state. I love collaborating with hackers, bioengineers, researchers, 
         clinicians, and even citizen scientists -- the heroes I draw inspiration from. Exposure from groups 
         like BioCurious and events like Makerfaire have lead me to this path.
-      </div></br>
-      <div>
-        Currently, I use my background in science and software engineering skills as a volunteer at the California Academy of Sciences, 
-        assisting a lead scientist to improve his website for a citizen-science project on a community-powered app, iNaturalist. 
-        More importantly, his work uses machine learning to classify disease-carrying mosquitoes. I'm happy to help him get his public 
-        health message across and to help educate students in The Big Island of Hawaii about mosquitos that carry potentially 
-        life-threatening diseases such as dengue fever. 
       </div></br>
     </div>
     </div>
