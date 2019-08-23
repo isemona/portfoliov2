@@ -29,7 +29,7 @@
       <h1 class="title">About</h1>
       <div>
         I was born and raised on a US Commonwealth called Saipan, Northern Mariana Islands in the Mid-Pacific. 
-        I am a first-generation college graduate with a Science (STEM) degree. I've always envisioned myself solving 
+        I am a first-generation college graduate with a degree in Science (STEM). I've always envisioned myself solving 
         problems in health. With the original intention of going into Medicine or Public Health, 
         I initially came out to the Bay Area to serve as a volunteer for AmeriCorps under the San Francisco Department of Public Health; 
         it was here that I stumbled upon the Silicon Valley and into tech. I’ve worked for a startup company for three years as 
@@ -41,7 +41,7 @@
       <div>
         As a Scientist/Public Health Worker turned Software Developer, I am most interested in the intersection
         of healthcare and technology. In Saipan, I volunteered at the local hospital educating patients and helping them to
-        understand and manage diabetes and other preventable illnesses. I also volunteered at a women's shelter, where I 
+        understand and manage diabetes and other preventable illnesses. I also volunteered at a local women's shelter, where I 
         taught English to women from different countries looking to find work on the island and transition to healthier lives. 
         After my time in Saipan and AmeriCorps, I observed a disconnect with how our current 
         healthcare system operates; a system more focused on the end result and not enough on prevention 
@@ -51,7 +51,7 @@
         I aim to research and contribute to current technological efforts out there -- efforts that help to 
         improve heathcare at its current state. I love collaborating with hackers, bioengineers, researchers, 
         clinicians, and even citizen scientists -- the heroes I draw inspiration from. Exposure from groups 
-        like BioCurious and events like Makerfaire lead me to this path.
+        like BioCurious and events like Makerfaire have lead me to this path.
       </div></br>
       <div>
         Currently, I use my background in science and software engineering skills as a volunteer at the California Academy of Sciences, 
