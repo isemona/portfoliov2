@@ -70,7 +70,7 @@
       :imgSrc="''"
       :projectUrl="''"
       :title="'Portfolio Website'"
-      :description="'This website is built on Vue.js.'"/>
+      :description="'This website is built on Vue.js and methods similar to React. The tech stack I used includes: Vue.js, Bootstrap, and CSS. My website is currently deployed through AWS Lightsail.'"/>
       <div class="row">
         <div class="col-12"></div>
     </div>
