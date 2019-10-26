@@ -7,7 +7,8 @@
       <span class="project-title">
         <a :href="projectUrl">{{title}}</a>
       </span>
-      <p>{{description}}</p></br>
+      <p>{{description}}</p>
+      <br>
     </div>
   </div>
 </template>
